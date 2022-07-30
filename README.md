@@ -26,10 +26,7 @@ this project was created for react native, mobx and api study using | so i didn'
 
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/78555264/176006604-83a39f55-877f-4a91-892e-0b7413a29095.png)
-![2](https://user-images.githubusercontent.com/78555264/176006643-94065338-6294-404d-8bb6-6e8b2a589427.png)
+![BART_ANTIQUE](https://user-images.githubusercontent.com/78555264/181913645-067ba0c8-81a2-4e8c-bdb8-73e279e15f37.png)
 
-## Getting Started with EXPO
 
-React Native allows JavaScript developers to create mobile projects for Android and iOS. 
 
