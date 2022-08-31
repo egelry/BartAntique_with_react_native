@@ -1,4 +1,4 @@
-# Bart Media - Chat App
+# Bart Antique
 
 this project was created for react native, mobx and api study using | so i didn't put much effort into designing
 
